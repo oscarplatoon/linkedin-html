@@ -21,4 +21,4 @@
 
   Try to load this page in your browser. What does it look like?
 
-**NOTE: Leave styling out of it! that will be done in the next challenge.
+**NOTE:** Leave styling out of it! that will be done in the next challenge.
