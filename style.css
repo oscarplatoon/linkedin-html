@@ -1,0 +1,38 @@
+
+.nav-link-1 {
+  text-decoration: underline;
+  color:blue;
+  font-size: 20px;
+  padding-bottom: 50px
+}
+
+
+.login {
+  text-decoration: underline;
+  color:blue;
+  font-size: 30px;
+  font-weight: bold;
+  padding-bottom: 2px
+}
+
+.profile-header {
+  text-decoration: underline;
+  color:blue;
+  font-size: 20px;
+  padding-bottom: 2px
+}
+
+.name {
+  text-decoration: underline;
+  color:blue;
+  font-size: 20px;
+  font-weight: bold;
+  padding-bottom: 2px
+}
+
+.sub-menu {
+  text-decoration: underline;
+  color:blue;
+  font-size: 15px;
+  padding-bottom: 2px
+}
