@@ -1,16 +1,11 @@
+
+/* Background div */
 .background_div {
   background-color:blue;
   width: 100%;
-  height: 200px;
+  height: 150px;
 }
-
-.image {
-  width: 100px;
-  height: 100px;
-}
-
-
-.background_div .image {
+.background_div .image_one {
   position: relative;
   top: 70px;
   padding-left: 15px;
@@ -18,22 +13,53 @@
   height: 150px;
 }
 
+/* Images */
 
-.photoIcon_div .image_two {
-  width: 5px;
-  height: 5px;
+.image {
+  width: 100px;
+  height: 100px;
 }
 
-.photoIcon_div h1{
+/* Profile-icon_div */
+
+.profile-icon_div .image_two {
+  width: 5px;
+  height: 5px;
+  border-color: blue;
+  border-width: 1px;
+
+}
+
+.profile-icon_div h1{
   font-size: 30 px;
 }
 
-.photoIcon_div h2{
+.profile-icon_div h2{
   font-size: 20 px;
   font-weight: 200;
 }
 
-.photoIcon_div .body{
+.profile-icon_div .body{
   font-size: 17 px;
   color: grey;
+}
+
+/* about-me_div */
+.about-me_div .body{
+  font-size: 12px;
+  font-weight: 200;
+  font-family: Arial, sans-serif;
+}
+
+/* experience_div */
+.experience_div .{
+  font-size: 12px;
+  font-weight: 200;
+  font-family: Arial, sans-serif;
+}
+
+.experience_div .body{
+  font-size: 12px;
+  font-weight: 200;
+  font-family: Arial, sans-serif;
 }
