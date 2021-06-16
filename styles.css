@@ -1,0 +1,70 @@
+body{
+  font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue","Fira Sans",Ubuntu,Oxygen,"Oxygen Sans",Cantarell,"Droid Sans","Apple Color Emoji","Segoe UI Emoji","Segoe UI Emoji","Segoe UI Symbol","Lucida Grande",Helvetica,Arial,sans-serif;
+}
+body, div, h1,h2,h3 {
+  margin: 0px;
+  padding: 0px;
+  border: 0px;
+  vertical-align: baseline;
+}
+.nav-container{
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+  list-style: none;
+  align-items: center;
+}
+
+.nav-left {
+  justify-content: space-evenly;
+}
+
+.profile-card{
+  margin: 10px;
+  padding: 10px;
+  border-style: solid;
+  border: 4px;
+  border-radius: 20%;
+  border-color: grey;
+}
+
+.logo-icon {
+  height: 30px;
+  width: 30px;
+}
+.profile-container{
+  display: flex;
+  justify-content: space-between;
+  
+}
+
+.profile-info {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.profile-education{
+  display: flex;
+  flex-direction: column;
+}
+.education-icon{
+  width: 20%;
+
+}
+#banner-photo {
+  width: 100%;
+}
+
+#profile-pic{
+  height: 120px;
+  width: 120px;
+  position: relative;
+  bottom: 60px;
+  left: 30px;
+}
+
+#ad-space{
+  padding: 5px;
+  justify-content: center;
+}
